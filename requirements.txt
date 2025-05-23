@@ -1,0 +1,11 @@
+Django==2.2.4
+django-choices==1.7.2
+django-filter==0.11.0
+django-ipware==1.1.6
+django-request-id==1.0.0
+django-user-agents==0.3.2
+django-celery-results==2.4.0
+djangorestframework==3.10.2
+clickhouse-connect==0.8.3
+requests>=2.31.0
+ipython==8.8.0
